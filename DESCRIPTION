@@ -1,0 +1,16 @@
+Package: cwhscolours
+Type: Package
+Title: Centre for Work Health & Safety Colour Palette
+Version: 0.1.0
+Authors@R: 
+    person(given = "Michael",
+           family = "Wilczynska",
+           role = c("aut", "cre"),
+           email = "michael.wilczynska@centreforwhs.nsw.gov.au",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Maintainer: Michael Wilczynska <michael.wilczynska@centreforwhs.nsw.gov.au>
+Description: MProvides colour palette and schemes for the Centre for Work Health & Safety.
+License: GLP
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
